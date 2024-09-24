@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ixfoe.github.io/gUc/sitemap.gUc.gz
